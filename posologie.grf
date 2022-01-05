@@ -1,0 +1,37 @@
+#Unigraph
+SIZE 1478 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+17
+"<E>" 14 401 1 2 
+"" 1314 386 0 
+"<N+subst>/<span style:\"color:blue\">" 43 401 2 3 4 
+"<E>+\:+,+x+X+(" 360 312 3 4 3 10 
+"<NB>" 128 355 3 3 5 8 
+"g+gr+gram+mg+µg+kg+mcg+ml+µl+ui+iu+mol+mmol+cp+amp+o+gamma+mn+G+GR+GRAM+MG+µG+KG+MCG+ML+µL+UI+IU+MOL+mMOL+CP+AMP+O+GAMMA+MN+mL+Mol+mMol" 259 182 3 3 9 10 
+"<E>/</span>" 1251 391 1 1 
+"<jour>+<semaine>+mois+<matin>+<midi>+<soir>+<minuit>+<coucher>+<réveil>+j+J+m+M+s+S+<heure>+h+H+<minut>+min+mn" 973 287 5 6 12 14 7 15 
+"<E>+,+." 135 287 1 4 
+"<E>+<DET>+<PREP>+<PREPDET>+<Dnum>+<Nnum>+<V>+<PFX>+\/+x+X+w+W+\\+.+," 769 243 6 7 9 10 3 12 16 
+"<NB>+½+¼+¾+<Dnum>+<Nnum>+<DET>" 514 282 4 11 13 7 9 
+"<E>+cp+fois+<dose>+<comprimé>+<ampoule>+<goutte>+<gélule>+<flacon>+<unité>+<patch>+<sachet>+<seringue>+<stylo>+<injection>+<injection> SC+gél+gel+flac+unit+inj SC+SC" 660 466 2 9 11 
+"<E>+et+," 926 59 2 9 14 
+".+," 542 445 1 10 
+"<E>+-" 475 104 3 10 4 3 
+"²+<NB>+maximum+max+minimum+min+)" 1173 280 3 12 6 15 
+"<A>" 878 367 1 9 
