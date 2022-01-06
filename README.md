@@ -3,9 +3,9 @@
 
 # Languages and Tools:
 <b> Languages:
-  Python
+  <br> Python
 <b> Libraries:
-  sys,os,re,urllib,requests,bs4,sqlite3,locale,functools
+  <br> sys,os,re,urllib,requests,bs4,sqlite3,locale,functools
 <b> Tools:
-  Unitex/Gramlab
+  <br> Unitex/Gramlab
   
