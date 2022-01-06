@@ -2,10 +2,10 @@
 
 
 # Languages and Tools:
-<b> Languages:
+__Languages:__
   <br> Python
-<b> Libraries:
+__Libraries:__
   <br> sys,os,re,urllib,requests,bs4,sqlite3,locale,functools
-<b> Tools:
+__Tools:__
   <br> Unitex/Gramlab
   
