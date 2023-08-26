@@ -9,8 +9,13 @@ def ListToString(list):
         string = string + i
     return string
 
+if(len(sys.argv) == 2):
+	path = sys.argv[1]
+else: #emplacement par défaut
+	path = 'corpus-medical.txt'
 
-corpus = open('corpus-medical.txt','r',encoding='utf-8').read()
+
+corpus = open(path,'r',encoding='utf-8').read()
 
 subst_corpus = re.findall(r'([A-Z][A-Za-z]{4,})\s[:,]?\s?(\d*[,.]\d+|\d+|½)\s?(g|mg|µg|mcg|ml|µl|ui|iu|ml|mol|mmol|cp|amp|flacon|G|MG|ΜG|MCG|ML|ΜL|UI|IU|ML|MOL|MMOL|CP|AMP)[\s,./:]', corpus)
 
