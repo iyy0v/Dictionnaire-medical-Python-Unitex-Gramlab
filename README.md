@@ -19,7 +19,7 @@ Before you start running the scripts, make sure you start an Apache server first
 Now you should be able to access those pages from your browser using: <br /><br />
 `http://localhost:[port]/[filename]` or `http://127.0.0.1:[port]/[filename]`<br /><br />
 **example:** <br />
-`http://1ocalhost:80/vidal-Sommaires-Substances-A.htm` <br />
+`http://localhost:80/vidal-Sommaires-Substances-A.htm` <br />
 
 ## Usage :
 Scripts MUST be run in the following order :
