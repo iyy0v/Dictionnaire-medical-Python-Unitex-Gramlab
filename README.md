@@ -1,7 +1,7 @@
-# Dictionnaire Medical (Python + Unitex/Gramlab)
+# Dictionnaire Médical (Python + Unitex/Gramlab)
 I made this project for my **Information Extraction** class during my 3rd Bachelor year (L3).
 
-## Objective
+## Objective:
 - Scrape all HTML files containing VIDAL.FR's mediactions and generate a dictionary **subst.dic** of those medications using **extraire.py**.
     - Generate **infos1.txt** containing mediaction data of the medications in **subst.dic**.
 - Enrich the dictionary with new medical entities from **corpus-medical.txt** using **enrichir.py**.
@@ -14,10 +14,12 @@ I made this project for my **Information Extraction** class during my 3rd Bachel
 
 You can find more details in the assignment ['Projet Extraction d'Information.pdf'](https://github.com/iyy0v/Dictionnaire-medical-Python-Unitex-Gramlab/blob/main/Projet%20Extraction%20d'Information.pdf) above.
 
+## Usage:
+
 ## Languages and Tools:
 __Languages:__ Python <br>
 __Libraries:__ sys, os, re, urllib, requests, bs4, sqlite3, locale, functools <br>
 __Tools:__ Unitex/Gramlab <br>
   
 <br/>
-You can also check out the rest of my school projects [here](https://github.com/iyy0v/USTHBProjects).
+You can also check out the rest of my school projects [ here ](https://github.com/iyy0v/USTHBProjects).
